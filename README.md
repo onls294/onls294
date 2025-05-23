@@ -10,3 +10,8 @@
 [![Website](https://img.shields.io/badge/onls294.com-up-green?style=for-the-badge)]
 
 ![Github commit activity](https://img.shields.io/github/commit-activity/m/onls94/onls294)
+
+### :zap: Actividad reciente
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
